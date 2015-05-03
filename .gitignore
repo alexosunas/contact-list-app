@@ -1,0 +1,6 @@
+node_modules
+mongo
+
+# OS generated files #
+######################
+.DS_Store
